@@ -1153,7 +1153,7 @@ function draw() {
   
   pop();
   
-  drawHUD();
+  // drawHUD();  // Hidden for art presentation
 }
 
 function drawIrisBaseLayers(pupilR, integrity) {
